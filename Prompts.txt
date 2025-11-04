@@ -1,0 +1,130 @@
+Prompt 1
+
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em frontend cujo o nome é "DevQuest - A Ordem dos Desenvolvedores e tem foco em frontend, com o público alvo de iniciantes em frontend
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+(REGRAS)
+⚫ no bloco [INTRODUÇÃOĮ substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd, como se fossem escritos pelo Peter Jordan
+no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
+⚫no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
+no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Gabriel e esse foi As Duas Telas dessa semana
+use termos de fácil explicação
+O podcast vai ser apresentado somente por uma pessoa, chamada Felipão
+O podcast deve ser curto
+ĮREGRAS NEGATIVAS)
+Não use muitos termos técnicos
+Não ultrapasse 5 minutos de duração
+
+SAIDA
+
+Gabriel: E AÍ, GALERA! Gabriel na área! Você aí, que tá começando no mundo da web, já parou pra pensar... COMO que um site sabe que você tá num celular e muda todo o layout pra caber na sua mão? E como ele sabe que você tá num monitor GIGANTE e se estica todo?
+
+Isso NÃO é feitiçaria, é TECNOLOGIA! É o poder do mundo visual e responsivo.
+
+Sejam muito bem-vindos ao As Duas Telas, o podcast que desvenda os segredos da interface, feito para quem está começando agora. Pega o fone e VEM COMIGO!
+
+(Música de transição curta - "Stinger")
+
+[CURIOSIDADE 1 - O "C" do CSS]
+Gabriel: E vamos direto pra nossa primeira curiosidade. Você sabe o que realmente significa o "C" da sigla CSS?
+
+CSS significa Cascading Style Sheets. Em português, "Folhas de Estilo em Cascata". Mas... Cascata?
+
+Pensa numa cachoeira. A água sempre cai de cima pra baixo, certo? No CSS é quase isso! O "Cascata" significa que existe uma ordem de prioridade.
+
+Se você escreve uma regra no começo do seu arquivo mandando o texto ser azul, e lá no final você escreve outra mandando o mesmo texto ser vermelho... o navegador vai obedecer a ÚLTIMA regra. Ela "caiu por cima" da primeira.
+
+É por isso que às vezes você muda uma cor e nada acontece! É porque tem outra regra, mais forte ou mais específica, "ganhando" na cascata. Entender isso é o primeiro passo pra dominar o layout!
+
+(Stinger de transição)
+
+[CURIOSIDADE 2 - A Ferramenta "Mapa da Mina"]
+Gabriel: Segunda curiosidade: uma ferramenta! Se você está começando, talvez ache que o trabalho de front-end é só escrever código. Mas como você sabe O QUE codificar?
+
+Você precisa de um mapa. E esse mapa, hoje em dia, se chama Figma.
+
+O Figma é uma ferramenta de design onde o designer desenha EXATAMENTE como o site ou aplicativo deve parecer. E a mágica para nós, iniciantes, é que o Figma (mesmo na versão grátis) tem um "Modo de Inspeção".
+
+Com ele, você clica num botão e o Figma te diz: "essa fonte tem tamanho 16, a cor é essa aqui (e te dá o código dela), e a distância até o ícone do lado é de 20 pixels".
+
+Ele é o "mapa da mina". Antes de escrever uma linha de código, abra o design no Figma. Facilita DEMAIS a vida!
+
+[FINALIZAÇÃO]
+(Trilha de encerramento começa a subir suavemente)
+
+Gabriel: E por hoje é só, time! O mundo visual é gigante, mas nosso tempo é curto. Espero que tenham curtido essas dicas rápidas.
+
+Lembre-se: entenda a cascata e use o mapa do Figma!
+
+Eu sou Felipão e esse foi o As Duas Telas dessa semana!
+
+(Música sobe e encerra)
+
+Prompt 2
+Gera uma imagem de capa para esse podcast
+
+Saida, uma imagem do PodCast
+
+Prompt 3
+Gere o audio desse roteiro, alternando as vozez para que 2 pessoas estejam apresentando ele
+
+Saida
+
+[INTRODUÇÃO]
+(Trilha de introdução rápida e energética, sobe e depois baixa para fundo)
+
+GABRIEL: E AÍ, GALERA! Gabriel na área!
+
+ANA: E Ana aqui com ele! Você aí, que tá começando no mundo da web, já parou pra pensar... COMO que um site sabe que você tá num celular e muda todo o layout pra caber na sua mão?
+
+GABRIEL: E como ele sabe que você tá num monitor GIGANTE e se estica todo?
+
+ANA: Isso NÃO é feitiçaria, é TECNOLOGIA! É o poder do mundo visual e responsivo.
+
+GABRIEL: Sejam muito bem-vindos ao As Duas Telas, o podcast que desvenda os segredos da interface, feito para quem está começando agora.
+
+ANA: Pega o fone e VEM COM A GENTE!
+
+(Música de transição curta - "Stinger")
+
+[CURIOSIDADE 1 - O "C" do CSS]
+GABRIEL: E vamos direto pra nossa primeira curiosidade. Ana, você sabe o que realmente significa o "C" da sigla CSS?
+
+ANA: Boa pergunta, Gabs! CSS significa Cascading Style Sheets. Em português, "Folhas de Estilo em Cascata". Mas... Cascata?
+
+GABRIEL: Exato! Pensa numa cachoeira. A água sempre cai de cima pra baixo, certo? No CSS é quase isso! O "Cascata" significa que existe uma ordem de prioridade.
+
+ANA: É por isso que às vezes você muda uma cor e nada acontece! Se você escreve uma regra no começo do seu arquivo mandando o texto ser azul, e lá no final você escreve outra mandando o mesmo texto ser vermelho...
+
+GABRIEL: ...o navegador vai obedecer a ÚLTIMA regra. Ela "caiu por cima" da primeira. Entender isso é o primeiro passo pra dominar o layout!
+
+(Stinger de transição)
+
+[CURIOSIDADE 2 - A Ferramenta "Mapa da Mina"]
+ANA: Agora, a segunda curiosidade é uma ferramenta! Gabs, se você está começando, talvez ache que o trabalho é só escrever código. Mas como você sabe O QUE codificar?
+
+GABRIEL: Você precisa de um mapa. E esse mapa, hoje em dia, se chama Figma.
+
+ANA: O Figma é uma ferramenta de design onde o designer desenha EXATAMENTE como o site ou aplicativo deve parecer. E a mágica para nós, iniciantes, é que o Figma (mesmo na versão grátis) tem um "Modo de Inspeção".
+
+GABRIEL: Com ele, você clica num botão e o Figma te diz: "essa fonte tem tamanho 16, a cor é essa aqui (e te dá o código dela), e a distância até o ícone do lado é de 20 pixels".
+
+ANA: Ele é o "mapa da mina". Facilita DEMAIS a vida!
+
+[FINALIZAÇÃO]
+(Trilha de encerramento começa a subir suavemente)
+
+GABRIEL: E por hoje é só, time! O mundo visual é gigante, mas nosso tempo é curto.
+
+ANA: Espero que tenham curtido essas dicas rápidas. Lembre-se: entenda a cascata e use o mapa do Figma!
+
+GABRIEL: Eu sou o Gabriel...
+
+ANA: ...e eu sou a Ana.
+
+GABRIEL & ANA (Juntos): E esse foi o As Duas Telas dessa semana!
+
+(Música sobe e encerra)
