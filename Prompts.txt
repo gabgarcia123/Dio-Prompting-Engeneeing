@@ -16,7 +16,6 @@ O podcast vai ser apresentado somente por uma pessoa, chamada Felipão
 O podcast deve ser curto
 ĮREGRAS NEGATIVAS)
 Não use muitos termos técnicos
-Não ultrapasse 5 minutos de duração
 
 SAIDA
 
@@ -126,5 +125,6 @@ GABRIEL: Eu sou o Gabriel...
 ANA: ...e eu sou a Ana.
 
 GABRIEL & ANA (Juntos): E esse foi o As Duas Telas dessa semana!
+
 
 (Música sobe e encerra)
